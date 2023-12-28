@@ -74,7 +74,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
   * Serializability
   * Linearizability
   * CRDT
-  * _Indexes_
+  * _Indexes_ (x)
     * Tradeoff
     * Primary vs. secondary indexes
   * Denormalization
