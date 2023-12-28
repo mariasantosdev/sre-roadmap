@@ -84,7 +84,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
   * Strategies to handle rebalancing
   * Leader election
   * MVCC
-  * N+1 select problem
+  * N+1 select problem (x)
   * Quorum
   * Raft
   * Read repair
