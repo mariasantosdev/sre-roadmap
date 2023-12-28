@@ -208,7 +208,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
   * Connection backlog
   * Flow control
   * Handshake
-* HTTP
+* HTTP (X)
 * HTTP/2
 * Head of line blocking
 * Health checks: passive vs. active
