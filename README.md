@@ -31,7 +31,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
     * Concepts
     * Layer 4 vs. layer 7 load balancer
   * Liveness vs. safety properties
-  * Microservices: pros and cons
+  * Microservices: pros and cons(x)
   * REST
   * gRPC
   * Service mesh
