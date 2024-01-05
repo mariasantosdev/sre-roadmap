@@ -138,6 +138,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
  
 * _Concepts_
   * What's the difference between monitoring and observability
+    
   (In summary, monitoring is about tracking and alerting on specific metrics to ensure the stability and performance of a system, while observability is about gaining a deep understanding of a system's internal workings by collecting diverse and detailed data. Many modern system management practices emphasize both monitoring and observability to ensure a comprehensive approach to maintaining and improving complex systems.)
   * Trace vs. metric vs. log
   * Golden signals
