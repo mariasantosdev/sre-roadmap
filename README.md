@@ -202,9 +202,9 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
 * BGP
 * CoDel
 * CORS
-* DNS
+* DNS(x)
 * Ping vs. heartbeat
-* _TCP_
+* _TCP_(x)
   * TCP vs. UDP
   * Congestion control
   * Connection backlog
