@@ -28,7 +28,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
   * How to reduce sharing
   * Idempotency
   * _Load balancer_
-    * Concepts
+    * Concepts (x)
     * Layer 4 vs. layer 7 load balancer
   * Liveness vs. safety properties
   * Microservices: pros and cons(x)
