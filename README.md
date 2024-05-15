@@ -248,8 +248,8 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
   
 ## Other
 
-* SRE role
-* Version control
+* SRE role(x)
+* Version control(x)
 
 ## Soft skills
 
