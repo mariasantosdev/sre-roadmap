@@ -213,7 +213,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
 * HTTP (X)
 * HTTP/2
 * Head of line blocking
-* Health checks: passive vs. active
+* Health checks: passive vs. active (x)
 * Internet model
 * NTP
 * OSI model
