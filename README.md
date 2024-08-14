@@ -65,7 +65,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
   * CALM theorem
   * CAP theorem
   * PACELC theorem
-  * Cardinality
+  * Cardinality (x)
   * Chain replication
   * Consensus
   * Concurrency control
@@ -114,7 +114,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
   * Cascading failures
   * Hard vs. soft dependencies
   * _Scalability_
-    * Concepts
+    * Concepts (x)
     * Knee point
     * Ceiling
   * Number one source of outages
@@ -205,11 +205,11 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
 * DNS(x)
 * Ping vs. heartbeat
 * _TCP_(x)
-  * TCP vs. UDP
+  * TCP vs. UDP (x)
   * Congestion control
   * Connection backlog
   * Flow control
-  * Handshake
+  * Handshake (x)
 * HTTP (X)
 * HTTP/2
 * Head of line blocking
@@ -230,7 +230,7 @@ An opinionated roadmap to become an SRE (Concepts > Tools)
 * Cipher
 * Confidentiality
 * Encryption
-* TLS
+* TLS (x)
 * PKI
 * Signature
    
